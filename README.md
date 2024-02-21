@@ -1,7 +1,7 @@
-Spec
-오라클 JDK 11
-STS 3
-Maven
-MySQL + MyBatisLombok 
-Lombok (ToString, Log4j ...)
-Tomcat 9.0
+Spec <br/>
+오라클 JDK 11 <br/>
+STS 3 <br/>
+Maven <br/>
+MySQL + MyBatisLombok <br/>
+Lombok (ToString, Log4j ...) <br/>
+Tomcat 9.0 <br/>
